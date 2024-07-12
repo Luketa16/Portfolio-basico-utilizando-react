@@ -1,0 +1,62 @@
+.main {
+    background-color: rgb(12, 12, 30);
+    height: 35rem;
+    margin-top: 3px;
+    display: flex;
+}
+
+.text-presentacion {
+    margin: 10rem 0rem 0rem 10rem;
+}
+
+.i-am {
+    font-size: 40px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.nombre-completo {
+    font-size: 65px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.lucas {
+    color: rgb(83, 83, 206);
+}
+
+.text {
+    margin: 10px 0px;
+    line-height: 27px;
+    color: white;
+    font-size: 20px;
+}
+
+.foto {
+    width: 250px;
+    height: 325px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-right:15px;
+}
+
+.paginas {
+    width: 30px;
+}
+
+.apps-webs {
+    margin: 20px 0px;
+}
+
+.mi-foto {
+    margin-left: 280px;
+    margin-top: 110px;
+    color: white;
+    width: 200px;
+}
+
+
+

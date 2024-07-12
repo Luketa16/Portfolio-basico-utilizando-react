@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.logo {
+    color: white;
+    align-content: center;
+    margin: 0px 30px;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(12, 12, 30);
+    justify-content: space-between;
+    height: 70px;
+    box-shadow: 0px 4px 5px rgb(8, 4, 53);
+}
+
+.navbar {
+    margin: 0px 22rem;
+    align-content: center;
+}
+
+.navbar-a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 0.825rem ;
+    font-family: "Roboto", sans-serif;
+}
